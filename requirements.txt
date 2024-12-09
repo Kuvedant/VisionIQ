@@ -1,0 +1,16 @@
+torch>=1.12.0
+torchvision>=0.13.0
+transformers>=4.28.0
+timm>=0.6.13
+Pillow>=9.2.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+nltk>=3.8.0
+pycocoevalcap>=1.2
+gr==3.24.1
+torch.hub
+glob
+scikit-learn>=1.0.0
+openai-clip>=1.0.0
+salesforce-blip>=1.0.0
+segment-anything>=1.0.0
