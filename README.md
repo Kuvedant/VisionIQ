@@ -1,4 +1,4 @@
-# VisionIQ Intelligent Multimodal Assistant for Complex Visual Scene Understanding and Reasoning
+# VisionIQ: Intelligent Multimodal Assistant for Complex Visual Scene Understanding and Reasoning
 
 
 VisionIQ is an advanced AI-powered system designed to process images and respond to user queries across various tasks, including scene description, object detection, semantic segmentation, and multimodal reasoning. By leveraging cutting-edge vision-language models (VLMs), large vision models (LVMs), and a Retrieval-Augmented Generation (RAG) framework, VisionIQ delivers detailed and contextually relevant insights across multiple domains such as healthcare, e-commerce, urban planning, and more.
