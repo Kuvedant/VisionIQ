@@ -6,6 +6,8 @@ VisionIQ is an advanced AI-powered system designed to process images and respond
 ![VisionIQ Banner](./Screenshot_VisionIQ1.png)
 ![VisionIQ EO](./EarthObservation_GIS_VisionIQ.jpg)
 ![VisionIQ SV Detect](./detect_street_view_VisionIQ.jpeg)
+![VisionIQ MI Segment](./segment_medicalimage_VisionIQ.png)
+
 ## Features
 
 ### 1. Comprehensive Scene Analysis
