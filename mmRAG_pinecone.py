@@ -22,7 +22,7 @@ from transformers import BlipProcessor, BlipForConditionalGeneration, CLIPProces
 from sentence_transformers import SentenceTransformer
 import pinecone
 from pinecone import Pinecone
-api_key = "pcsk_37JbLd_JVwtdd64AaCENg8thM2MLgJWGBAGKKkWYW8ZVZh3jy7c2mqoRJBWET23Ut397hP"
+api_key = "*********************************"
 
 # Import DINO and SAM
 from dino import vit_small
